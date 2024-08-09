@@ -1,0 +1,29 @@
+/* App.css */
+
+/* Ensure the full viewport is covered with the background image */
+.background {
+     background-image: url('/assets/background.png'); /* Path to your background image */
+     background-size: cover; /* Cover the entire viewport */
+     background-position: center; /* Center the image */
+     background-repeat: no-repeat; /* Prevent the image from repeating */
+     background-attachment: fixed; /* Keep the background fixed */
+     min-height: 100vh; /* Ensure it covers the full viewport height */
+     background-color: #000; /* Optional fallback color */
+     display: flex;
+     justify-content: center; /* Center horizontally */
+     align-items: center; /* Center vertically */
+   }
+   
+   /* Glassmorphic effect for the content container */
+   .glassmorphic-container {
+     background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+     border-radius: 15px; /* Rounded corners */
+     backdrop-filter: blur(10px); /* Frosted glass effect */
+     border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: border to enhance the glass effect */
+     padding: 20px; /* Padding inside the container */
+     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: shadow for depth */
+     max-width: 500px; /* Maximum width of the container */
+     width: 100%; /* Responsive width */
+     box-sizing: border-box; /* Include padding and border in the element’s total width and height */
+   }
+   
