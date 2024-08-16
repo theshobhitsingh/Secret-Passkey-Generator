@@ -66,5 +66,4 @@ React: For providing a robust and flexible framework to build interactive UIs.
 Vite: For offering a fast and efficient build tool that enhances development productivity
 
 ## Author
-This is crafted by Me : Shobhit Singh
-
+This is secretly built by Me!
