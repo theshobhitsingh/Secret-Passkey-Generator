@@ -51,7 +51,7 @@ Here’s how to use the Password Generator:
 5. Check the Numbers checkbox to include digits (0-9) in the password.
 6. Check the Characters checkbox to include special characters (e.g., !@#$%^&*-_+=[]{}~`).
 7. Copy Password: Click the Copy button to copy the generated password to your clipboard. An alert will confirm that the password has been copied.
-8. 
+
 ## Contributing
 If you would like to contribute to this project, please follow these guidelines:
 
