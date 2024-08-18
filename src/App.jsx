@@ -1,6 +1,6 @@
 import React, { useState, useCallback, useEffect, useRef } from "react";
-import './App.css'; // Ensure this path is correct
-import backgroundImage from './assets/background.png'; // Adjust the path as needed
+import './App.css';
+import backgroundImage from './assets/background.png';
 
 function App() {
   const [length, setLength] = useState(8);
