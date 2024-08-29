@@ -19,6 +19,6 @@
      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
      max-width: 500px;
      width: 100%; /* Responsive width */
-     box-sizing: border-box; /* Include padding and border in the element’s total width and height */
+     box-sizing: border-box;
    }
    
