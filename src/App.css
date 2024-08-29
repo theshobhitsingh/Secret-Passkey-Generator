@@ -3,8 +3,8 @@
      background-size: cover;
      background-position: center;
      background-repeat: no-repeat;
-     background-attachment: fixed; /* Keep the background fixed */
-     min-height: 100vh; /* Ensure it covers the full viewport height */
+     background-attachment: fixed;
+     min-height: 100vh;
      background-color: #000; /* Optional fallback color */
      display: flex;
      justify-content: center; /* Center horizontally */
