@@ -5,9 +5,9 @@
      background-repeat: no-repeat;
      background-attachment: fixed;
      min-height: 100vh;
-     background-color: #000; /* Optional fallback color */
+     background-color: #000;
      display: flex;
-     justify-content: center; /* Center horizontally */
+     justify-content: center;
      align-items: center; /* Center vertically */
    }
    
