@@ -9,7 +9,7 @@ A dynamic and customizable password generator built with React and styled using 
 - **Password Copy Functionality**: Copy the generated password to the clipboard with a single click.
 - **Modern Design**: Utilizes Tailwind CSS for a clean and responsive user interface.
 
-## Technologies Used
+## Technologies Used:
 
 - **React**: JavaScript library for building user interfaces.
 - **Tailwind CSS**: Utility-first CSS framework for styling.
