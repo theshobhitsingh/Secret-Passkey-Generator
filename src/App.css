@@ -1,9 +1,8 @@
-
 .background {
-     background-image: url('/assets/background.png'); /* Path to your background image */
-     background-size: cover; /* Cover the entire viewport */
-     background-position: center; /* Center the image */
-     background-repeat: no-repeat; /* Prevent the image from repeating */
+     background-image: url('/assets/background.png');
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
      background-attachment: fixed; /* Keep the background fixed */
      min-height: 100vh; /* Ensure it covers the full viewport height */
      background-color: #000; /* Optional fallback color */
