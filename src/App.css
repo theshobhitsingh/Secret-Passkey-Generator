@@ -11,9 +11,9 @@
      align-items: center;
    }
    .glassmorphic-container {
-     background: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
-     border-radius: 15px; /* Rounded corners */
-     backdrop-filter: blur(10px); /* Frosted glass effect */
+     background: rgba(255, 255, 255, 0.1);
+     border-radius: 15px;
+     backdrop-filter: blur(10px);
      border: 1px solid rgba(255, 255, 255, 0.3); /* Optional: border to enhance the glass effect */
      padding: 20px; /* Padding inside the container */
      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: shadow for depth */
