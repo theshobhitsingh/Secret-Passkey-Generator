@@ -32,6 +32,7 @@ To set up this project locally, follow these steps:
 
 Make sure you have Node.js and npm or Yarn installed. Run one of the following commands to install the required packages:
   npm install or yarn install
+  
 ## Start the Development Server
 npm run dev or yarn dev
 
