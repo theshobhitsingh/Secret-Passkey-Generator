@@ -8,7 +8,7 @@
      background-color: #000;
      display: flex;
      justify-content: center;
-     align-items: center; /* Center vertically */
+     align-items: center;
    }
    
    /* Glassmorphic effect for the content container */
