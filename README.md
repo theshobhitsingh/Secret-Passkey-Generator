@@ -63,7 +63,7 @@ If you would like to contribute to this project, please follow these guidelines:
 
 ## Acknowledgements
 Tailwind CSS: For the utility-first CSS framework that enabled the responsive and modern design of the application.
-React: For providing a robust and flexible framework to build interactive UIs.
+ReactJS: For ensuring a robust and flexible framework to build interactive UIs.
 Vite: For offering a fast and efficient build tool that enhances development productivity
 
 ## Author
